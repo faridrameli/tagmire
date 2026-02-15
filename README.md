@@ -27,8 +27,8 @@ Tags and annotations are saved in VS Code's `workspaceState`, so they never touc
 ```bash
 git clone https://github.com/your-username/tagmire.git
 cd tagmire
-npm install
-npm run compile
+yarn install
+yarn compile
 ```
 
 Then press **F5** in VS Code to launch the Extension Development Host with Tagmire loaded.
